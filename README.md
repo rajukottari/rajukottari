@@ -15,9 +15,6 @@ Hi, I'm Raju Kottari — a Student from Kathmandu 🇳🇵<br><br>💫 About Me:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajukottari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rajukottari&icon=0&color=0)](https://visitcount.itsvg.in)
 
